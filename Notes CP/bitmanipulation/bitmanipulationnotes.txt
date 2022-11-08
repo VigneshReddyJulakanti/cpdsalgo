@@ -1,0 +1,7 @@
+=> n&-n gives the largest number to the power of two and number multiple for n.
+
+=> n-1 means it will do n+(doble completment 0f 1 i.e (1111111111111))  : 
+it will convert first zeroe in n to 1's , and when first n will come it will mark it as 0 , and then it will it will keep same number at last adds1.
+
+=> to find the subsets we can use bits as 2*n-1
+1,01,10,11,100 these are nothing but different subsets.

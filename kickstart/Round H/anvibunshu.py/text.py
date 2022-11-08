@@ -1,0 +1,1 @@
+a=open("boom.txt","r")
